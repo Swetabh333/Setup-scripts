@@ -1,0 +1,23 @@
+{
+  "name": "setproject",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/chalk-animation": "^1.6.2",
+    "@types/figlet": "^1.5.7",
+    "@types/gradient-string": "^1.1.4",
+    "@types/inquirer": "^9.0.6",
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "execa": "^8.0.1",
+    "figlet": "^1.7.0",
+    "gradient-string": "^2.0.2",
+    "inquirer": "^9.2.11",
+    "nanospinner": "^1.1.0"
+  }
+}
